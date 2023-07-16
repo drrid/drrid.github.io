@@ -5,17 +5,20 @@ subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: http://192.168.5.144:9000/video3.mp4
+  video: /assets/video.mp4
   loop: true
   volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  start_at: 1
+  image: /assets/thumbnail.png
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "80vh"
   min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
+  # height: "100vh"
+  # min_height: "38vh"
+  # heading_style: "font-size: 4.25em; font-weight: bold; color:#b2d8d8"
+  heading_style: "font-size: 3.5em; font-weight: bold; color:#b2d8d8"
+  subheading_style: "color: white"
 tags: jekyll theme yat
 sidebar: []
 ---
