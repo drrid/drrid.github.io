@@ -151,11 +151,13 @@ brand_color: '#008080'
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
+header_pages:
+  - about.md
+#   - test.md
+  - index.md
+#   # - archives.html
 #   - categories.html
-#   - tags.html
+#   # - tags.html
 #   - about.md
 
 # Page default value
@@ -168,21 +170,8 @@ defaults:
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-banner:
-  video: /assets/video.mp4
-  loop: true
-  volume: 0.8
-  start_at: 1
-  image: /assets/thumbnail.png
-  opacity: 0.618
-  background: "#000"
-  height: "80vh"
-  min_height: "38vh"
-  # height: "100vh"
-  # min_height: "38vh"
-  # heading_style: "font-size: 4.25em; font-weight: bold; color:#b2d8d8"
-  heading_style: "font-size: 3.5em; font-weight: bold; color:#b2d8d8"
-  subheading_style: "color: white"
+
+
 
 # Excerpt size setting
 # excerpt_size: 350

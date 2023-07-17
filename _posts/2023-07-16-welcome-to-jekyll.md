@@ -5,22 +5,7 @@ subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: /assets/video.mp4
-  loop: true
-  volume: 0.8
-  start_at: 1
   image: /assets/thumbnail.png
-  opacity: 0.618
-  background: "#000"
-  height: "80vh"
-  min_height: "38vh"
-  # height: "100vh"
-  # min_height: "38vh"
-  # heading_style: "font-size: 4.25em; font-weight: bold; color:#b2d8d8"
-  heading_style: "font-size: 3.5em; font-weight: bold; color:#b2d8d8"
-  subheading_style: "color: white"
-tags: jekyll theme yat
-sidebar: []
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
