@@ -5,7 +5,7 @@
 layout: home
 title: Home
 banner:
-  video: /assets/video.mp4
+  video: 'https://github.com/drrid/drrid.github.io/raw/main/assets/video.mp4'
   loop: true
   volume: 0.8
   start_at: 1
@@ -19,5 +19,4 @@ banner:
   # heading_style: "font-size: 4.25em; font-weight: bold; color:#b2d8d8"
   heading_style: "font-size: 3.5em; font-weight: bold; color:#b2d8d8"
   subheading_style: "color: white"
-
 ---
