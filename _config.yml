@@ -154,7 +154,7 @@ brand_color: '#008080'
 header_pages:
   - about.md
 #   - test.md
-  - index.md
+  - index.html
 #   # - archives.html
 #   - categories.html
 #   # - tags.html
