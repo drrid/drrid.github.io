@@ -26,6 +26,7 @@
 
 include:
   - '/assets'
+  - '/_includes'
 
 title: Abdennebi's Orthodontics
 email: tarek@abdennebiortho.com
