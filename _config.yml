@@ -91,6 +91,9 @@ translate_langs:
     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
     text: French
 
+  - lang: ar
+    text: Arabic
+
   # - lang: zh-CN
   #   img: https://cdn.countryflags.com/thumbs/china/flag-400.png
   #   text: Chinese(Simple)
